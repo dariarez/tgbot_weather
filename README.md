@@ -4,4 +4,4 @@ This program allows the user to find out the weather in any city in the world, a
 
 Free API: https://openweathermap.org/.
 
-Used libraries: Requests, Telebot.
+Used libraries: [Requests](https://requests.readthedocs.io/en/latest/), [Telebot](https://pypi.org/project/pyTelegramBotAPI/).
